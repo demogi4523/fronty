@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@demogi4523"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "https://medium.com/simform-engineering/building-a-component-library-with-react-typescript-and-storybook-a-comprehensive-guide-ba189accdaf5",
   "type": "module",
   "main": "dist/index.cjs.js",
